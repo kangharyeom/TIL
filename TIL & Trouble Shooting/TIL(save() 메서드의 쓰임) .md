@@ -1,0 +1,19 @@
+# 2022.11.22 update
+
+TIL
+
+# 오늘의 배운점 
+
+# Spring Data JPA에서 save() 메서드의 쓰임
+
+불현듯 save() 메서드는 어떤 원리로 쓰이는 건지 궁금해졌다.
+repository.save(member)는 어떤 원리로 멤버를 담게되는 것인가?!
+
+
+우리는 save() 메서드가 Repository에 엔티티를 추가하는 메서드로 알고 있었다.
+하지만 save()는 업데이트를 위한 용도로도 사용된다.
+
+id가 없는 객체의 경우 Transient 상태에서 save될 경우 Persistent 상태가 된다.
+이 때 save()의 매개변수 객체는 EntityManager에 캐싱된다.
+
+그러나 id를 갖고 있는 경우 EntityManager가 merge()를 호출한다.
