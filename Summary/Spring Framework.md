@@ -1,5 +1,3 @@
-# Summary 2022.11.14
-
 # Spring Frame Work은 무엇일까?
 
 Spirng은 IOC 기반의 Framework입니다. 

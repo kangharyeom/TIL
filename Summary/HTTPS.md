@@ -1,5 +1,3 @@
-# Summary 2022.11.17
-
 # HTTPS란 무엇일까?
 
 HTTP + S (secure)

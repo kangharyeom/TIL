@@ -1,5 +1,3 @@
-# Summary 2022.11.14
-
 # 스프링 컨테이너(Spring Container)는 무엇일까?
 
 스프링 컨테이너(Spring Container)는 Spring Framework의 핵심 컴포넌트입니다.

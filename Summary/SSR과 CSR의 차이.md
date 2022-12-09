@@ -1,5 +1,3 @@
-#2022.11.21 update
-
 # SSR 방식과 CSR 방식의 차이
 
 1. SSR(Server Side Rendering)이란?

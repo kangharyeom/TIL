@@ -1,5 +1,3 @@
-# Summary 2022.11.14
-
 # DDD(Domain Driven Design)란? 
 
 도메인 위주의 설계 기법을 의미한다.

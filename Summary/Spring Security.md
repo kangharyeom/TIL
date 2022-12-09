@@ -1,5 +1,3 @@
-# Summary 2022.11.18
-
 # Spring Security란 무엇일까요?!
 
 

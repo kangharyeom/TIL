@@ -1,5 +1,3 @@
-# Summary
-
 # TDD(Test Driven Development, 테스트 주도 개발)란 무엇일까?
 
 

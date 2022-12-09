@@ -1,5 +1,3 @@
-#2022.11.24 update
-
 # CORS(Cross-Origin Resource Sharing)
 
 애플리케이션 간에 출처(Origin)가 다를 경우 스크립트 기반의 HTTP 통신(XMLHttpRequest, Fetch API)을 통한 리소스 접근이 제한 되는데, 

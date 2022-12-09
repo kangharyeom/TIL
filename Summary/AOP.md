@@ -1,5 +1,3 @@
-# Summary 2022.11.14
-
 # AOP(Aspect Oriented Programming, 관점지향 프로그래밍)
 
 AOP는 애플리케이션의 핵심 업무 로직에서 로깅이나 보안, 트렌잭션 같은 공통 기능 로직들을 분리하는 것입니다.

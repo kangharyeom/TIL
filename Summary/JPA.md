@@ -1,5 +1,3 @@
-# Summary 2022.11.28 update
-
 # JPA (Java Persistence API)란 무엇일까?
 JPA는 영속성을 가지는 자바 애플리 케이션이다. 
 즉, JPA는 인메모리에 저장하여 종료하면 사라지는 데이터가 아닌, 

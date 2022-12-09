@@ -1,5 +1,3 @@
-# 2022.11.21 update
-
 # CSRF(Cross Site Request Forgery)란 무엇일까?
 웹사이트간 요청 위조라는 뜻으로 웹사이트의 취약점을 뜻합니다.
 

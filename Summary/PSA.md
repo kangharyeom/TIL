@@ -1,5 +1,3 @@
-# Summary 2022.11.14
-
 # PSA (Portable Service Abstraction)란 무엇일까?
 
 "PSA (Portable Service Abstraction)란 추상화(Abstraction)다."

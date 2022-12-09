@@ -1,5 +1,3 @@
-#2022.11.23 update
-
 # JWT (JSON Web Token)이란 무엇인가?
 CSR기반 자격 증명 방식이다.
 즉, JSON으로 작성된 웹토큰이다.

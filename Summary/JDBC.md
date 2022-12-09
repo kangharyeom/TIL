@@ -1,5 +1,3 @@
-# Summary 2022.11.22 update
-
 # JDBC(Java Database Connectivity)란 무엇일까?
 
 JDBC(Java Database Connectivity)는 Java 기반 애플리케이션의 코드 레벨에서 사용하는 데이터를 데이터베이스에 저장 및 업데이트 하거나

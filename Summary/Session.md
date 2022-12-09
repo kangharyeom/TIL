@@ -1,5 +1,3 @@
-# Summary 2022.11.17
-
 # Session이란 무엇일까?
 
 데이터를 서버에 저장하는 것 (Cookie는 Client에 저장)
