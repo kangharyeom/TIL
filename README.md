@@ -1,4 +1,4 @@
-## TLI: Today I Learn
+## TIL: Today I Learn
 
 오늘 내가 새롭게 배우거나 보다 정확하게 알게 된 것을 기술하였습니다. 
 
