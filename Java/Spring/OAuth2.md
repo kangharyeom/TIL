@@ -5,7 +5,7 @@ OAuth 2는 특정 애플리케이션(Client)에서 사용자의 인증을 직접
 Client가 해당 토큰을 이용해 써드 파티 애플리케이션의 서비스를 사용하게 해주는 방식입니다.
 
 
-![img_1.png](../images/OAuth2/img_1.png)
+![img_1.png](../../images/OAuth2/img_1.png)
 
 
 # OAuth 2 인증 컴포넌트(Component, 구성요소)들의 역할
@@ -43,7 +43,7 @@ Authorization Code Grant
 - Refresh Token을 사용할 수 있다.
 - 권한 부여 승인 요청시 응답 타입(response_type)을 code로 지정하여 요청한다.
 
-![img.png](../images/OAuth2/img.png)
+![img.png](../../images/OAuth2/img.png)
 
 Implicit Grant
 - 별도의 Authorization Code 없이 바로 Access Token을 발급하는 방식
@@ -51,7 +51,7 @@ Implicit Grant
 - Refresh Token 사용이 불가능하며, Authorization Server는 Client Secret을 통해 클라이언트 인증 과정을 생략한다.
 - 권한 부여 승인 요청시 응답 타입(response_type)을 token으로 지정하여 요청한다.
 
-![img_2.png](../images/OAuth2/img_2.png)
+![img_2.png](../../images/OAuth2/img_2.png)
 
 Resource Owner Password Credential Grant
 - 간단하게 로그인 시 필요한 정보(username, password)로 Access Token을 발급받는 방식
@@ -59,13 +59,13 @@ Resource Owner Password Credential Grant
 - ex) 네이버 계정으로 네이버 웹툰 애플리케이션에 로그인, 카카오 계정으로 카카오 지도 애플리케이션에 로그인
 - Authorization Server, Resource Server, Client가 모두 같은 시스템에 속해 있을 때만 사용이 가능
 
-![img_3.png](../images/OAuth2/img_3.png)
+![img_3.png](../../images/OAuth2/img_3.png)
 
 Client Credentials Grant
 - Client 자신이 관리하는 Resource 혹은 Authorization Server에 해당 Client를 위한 제한된 Resource 접근 권한이 설정되어 있는 경우
 - 자격 증명을 안전하게 보관할 수 있는 Client에서만 사용되어야 하며, Refresh Token의 사용은 불가능
 
-![img_4.png](../images/OAuth2/img_4.png)
+![img_4.png](../../images/OAuth2/img_4.png)
 
 # 새로운 용어
 크리덴셜(Credential)
@@ -74,4 +74,4 @@ Client Credentials Grant
 
 # Frontend와 Backend 간의 OAuth 2 인증 처리 흐름
 
-![img_6.png](../images/OAuth2/img_6.png)
+![img_6.png](../../images/OAuth2/img_6.png)
