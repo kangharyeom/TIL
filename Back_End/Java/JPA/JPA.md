@@ -12,8 +12,8 @@ JPA는 왜 EntityManager를 활용한 기술이라고 하면서 정작 Repositor
 Hibernate는 JPA의 구현체이다. 구현체는 "인터페이스를 구현한 클래스"라는 뜻이니, HIbernate는 JPA의 구현 클래스가 되는 것이다. 
 물론 구현체는 Hibernate외 에도 DataNucleus, EclipseLink 등 다양하게 있다. 
 
-![img.png](../../images/JPA/JPA에%20대한%20고찰/img.png)
+![img.png](../../../images/JPA/JPA에%20대한%20고찰/img.png)
 
 Hibernate에서는 interface들을 상속받고 Impl로 구현하고 있다.
 
-![img_1.png](../../images/JPA/JPA에%20대한%20고찰/img_1.png)
+![img_1.png](../../../images/JPA/JPA에%20대한%20고찰/img_1.png)
